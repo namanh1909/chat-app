@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "ChatApps",
+    "slug": "ChatApps",
+    "description": "thi is my namsaid app",
+    "version": "1.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "ios.supportsTablet": false,
+    "icon": "./asset/img/avt.jpg",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ChatApps"
+}
